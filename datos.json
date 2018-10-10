@@ -1,0 +1,50 @@
+{
+    "redes_sociales": [
+        {
+            "imagen": "https://www.rayensalud.com/wp-content/themes/simplyblack/images/linkedin.svg",
+            "id": "1"
+        },
+        {
+            "imagen": "https://www.rayensalud.com/wp-content/themes/simplyblack/images/twitter.svg",
+            "id": "2"
+        },
+        {
+            "imagen": "https://www.rayensalud.com/wp-content/themes/simplyblack/images/facebook.svg",
+            "id": "3"
+        },
+        {
+            "imagen": "https://www.rayensalud.com/wp-content/themes/simplyblack/images/instagram.svg",
+            "id": "4"
+        },
+        {
+            "imagen": "https://www.rayensalud.com/wp-content/themes/simplyblack/images/youtube.svg",
+            "id": "5"
+        }
+    ],
+    "Telefono": "+56 2 2588 8800",
+    "mail": "contacto@rayensalud.com",
+    "direccion": "Merced 480, Santiago, Región Metropolitana",
+    "centro_de_contacto":"Centro de contacto",
+    "opciones_nav": [
+        {
+            "texto_nav": "inicio",
+            "id": "1"
+        },
+        {
+            "texto_nav": "QUIENES SOMOS",
+            "id": "2"
+        },
+        {
+            "texto_nav": "SERVICIOS",
+            "id": "3"
+        },
+        {
+            "texto_nav": "NOTICIAS",
+            "id": "4"
+        },
+        {
+            "texto_nav": "COMUNIDAD",
+            "id": "5"
+        }
+    ]
+}

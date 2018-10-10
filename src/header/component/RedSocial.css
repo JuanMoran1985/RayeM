@@ -1,0 +1,27 @@
+.RedSocialImg{
+    height: 16px;
+    width: 16px;
+}
+
+.red-social-li{
+
+}
+
+.col-md-2 {
+    width: 16.66666667%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+}
+
+a {
+    text-decoration: none;
+    color: #0055a5;
+    background-color: transparent;
+}
+
+.img-responsive {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}

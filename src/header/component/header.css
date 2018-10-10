@@ -1,0 +1,43 @@
+body{
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.col-xs-12 {
+    width: 100%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.redes-sociales {
+    padding: 5px 0px;
+}
+
+.col-md-1 {
+    width: 8.33333333%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.barra-corporativa {
+    background: #fff;
+    padding: 0px 40px;
+    width: 100%;
+    position: fixed;
+    z-index: 99999;
+}

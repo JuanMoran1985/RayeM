@@ -1,0 +1,15 @@
+.containerNav{
+    height: -webkit-fill-available;
+    background-color: rgba(0,0,0,0.4);
+    z-index: 999999;
+    border-bottom: 1px solid rgba(256,256,256,0.6);
+    transition: all 1s ease;
+    margin-top: 23px;
+    position: fixed;
+    width: 100%;
+}
+
+.NavUl{
+    margin: 0;
+    float: right!important;
+}
